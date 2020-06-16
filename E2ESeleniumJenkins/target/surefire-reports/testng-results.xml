@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="41299" started-at="2020-06-15T18:10:46Z" finished-at="2020-06-15T18:11:28Z">
+  <suite name="Suite" duration-ms="58549" started-at="2020-06-16T06:20:07Z" finished-at="2020-06-16T06:21:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="41299" started-at="2020-06-15T18:10:46Z" finished-at="2020-06-15T18:11:28Z">
+    <test name="Test" duration-ms="58549" started-at="2020-06-16T06:20:07Z" finished-at="2020-06-16T06:21:06Z">
       <class name="test.TC_002">
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:test.TC_002@2752f6e2]" name="startbrowser" duration-ms="19007" started-at="2020-06-15T23:41:09Z" finished-at="2020-06-15T23:41:28Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:test.TC_002@e580929]" name="startbrowser" duration-ms="17436" started-at="2020-06-16T11:50:33Z" finished-at="2020-06-16T11:50:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
       </class> <!-- test.TC_002 -->
+      <class name="test.TC_003">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:test.TC_003@1cd072a9]" name="startbrowser" duration-ms="15664" started-at="2020-06-16T11:50:50Z" finished-at="2020-06-16T11:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+      </class> <!-- test.TC_003 -->
       <class name="test.TC_001">
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:test.TC_001@2d209079]" name="startbrowser" duration-ms="22208" started-at="2020-06-15T23:40:46Z" finished-at="2020-06-15T23:41:09Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:test.TC_001@6bdf28bb]" name="startbrowser" duration-ms="25424" started-at="2020-06-16T11:50:07Z" finished-at="2020-06-16T11:50:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
